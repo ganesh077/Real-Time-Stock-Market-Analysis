@@ -4,7 +4,7 @@ This project demonstrates a data pipeline that simulates stock market data, stre
 
 ## Architecture
 
-![Architecture Diagram](Project Architecture.jpeg)
+![Architecture Diagram]([Project Architecture.jpeg](https://github.com/ganesh077/Real-Time-Stock-Market-Analysis/blob/main/Project%20Architecture.jpeg))
 
 ## Components
 
