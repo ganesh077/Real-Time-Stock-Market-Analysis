@@ -4,7 +4,7 @@ This project demonstrates a data pipeline that simulates stock market data, stre
 
 ## Architecture
 
-<img src="Project Architecture.jpeg" width=850 height=500>
+<img src="Project Architecture.jpeg" width=1000 height=500>
 
 ## Components
 
